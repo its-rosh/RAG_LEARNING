@@ -1,0 +1,8 @@
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data and 
+    make predictions or decisions without being explicitly programmed for every task. 
+    A typical machine learning workflow includes collecting data, cleaning and preprocessing it, selecting useful features, training a model, and evaluating its performance. 
+    Common learning approaches include supervised learning, unsupervised learning, and reinforcement learning. 
+    Algorithms such as linear regression, decision trees, support vector machines, and neural networks are widely used for different problems. 
+    The quality of the training data strongly affects model performance. 
+    Machine learning is applied in recommendation systems, fraud detection, image recognition, forecasting, healthcare, and natural language processing.
+
